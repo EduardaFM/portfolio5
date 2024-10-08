@@ -1,0 +1,17 @@
+:root {
+    --bg-color: #F8F3EA;
+    --second-bg-color: #fFDBD1;
+    --text-color: #0B1957;
+    --main-color: #e858bd;
+ }
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+h1{
+    text-align: center;
+  }  
+  body{
+      font-family: Arial;
+
+  }
